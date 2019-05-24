@@ -16,7 +16,9 @@ Exploratory Data Analysis
 
 
 <p> 
-Thank you very much, <br />
+Thank you for your time, <br />
+
+Best regards, <br />
 
 Mohammed Wardeh
 </p>
